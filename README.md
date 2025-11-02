@@ -42,5 +42,4 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ## 💻 How to Use
 
 1. Clone or download this repository.
-   ```bash
-https://github.com/dhamodharanECE/XCalculator.git
+   ```bash  https://github.com/dhamodharanECE/XCalculator.git
