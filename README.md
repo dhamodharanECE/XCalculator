@@ -43,7 +43,7 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 ## 💻 How to Use
 
 1. Clone or download this repository.
-   https://github.com/dhamodharanECE/XCalculator.git  ```bash
+    ```bash https://github.com/dhamodharanECE/XCalculator.git  
 
 📁 Project Structure
 calculator/
